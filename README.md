@@ -1,4 +1,4 @@
-![CloudConnect-WeatherStation-IoT Banner](https://raw.githubusercontent.com/Rakhi8940/IoT-CloudConnect-WeatherStation/main/assets/banner_weather_station.png)
+![IoT-CloudConnect-WeatherStation Banner](assets/banner.png)
 
 # IoT-CloudConnect-WeatherStation
 
