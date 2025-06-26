@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rakhi8940/IoT-CloudConnect-WeatherStation/main/assets/banner_cloudconnect_weatherstation.png" width="900" alt="IoT-CloudConnect-WeatherStation Banner" style="margin: 10px; border-radius: 16px; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
+  <img src="https://github.com/user-attachments/assets/fe1edeff-f372-43bf-a75a-7581969221df" width="900" alt="IoT-CloudConnect-WeatherStation Banner" style="margin: 10px; border-radius: 16px; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
 </p>
 
 # ☁️ IoT-CloudConnect-WeatherStation
@@ -83,7 +83,7 @@ Monitor temperature and humidity in real time, log and visualize your data on th
 ### **Live Dashboard**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bc9b02c0-de2d-43ad-9939-d5afdbe21560" width="550" alt="ThingSpeak Dashboard" style="margin: 8px; border-radius: 8px; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 12px;">
+  <img src="https://github.com/user-attachments/assets/60ac84fd-9e65-4146-bddd-491ed03f5325" width="550" alt="ThingSpeak Dashboard" style="margin: 8px; border-radius: 8px; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 12px;">
 </p>
 
 ### **Sample Data Graphs**
