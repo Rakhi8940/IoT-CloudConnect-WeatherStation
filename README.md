@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="900" alt="IoT-CloudConnect-WeatherStation Banner" style="margin: 10px; border-radius: 16px;">
+  <img src="https://raw.githubusercontent.com/Rakhi8940/IoT-CloudConnect-WeatherStation/main/assets/banner_cloudconnect_weatherstation.png" width="900" alt="IoT-CloudConnect-WeatherStation Banner" style="margin: 10px; border-radius: 16px; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.10);">
 </p>
 
 # ☁️ IoT-CloudConnect-WeatherStation
@@ -45,7 +45,7 @@ Monitor temperature and humidity in real time, log and visualize your data on th
 ## 🌐 System Architecture
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f3f09aa7-e9a0-4351-bf70-00721d0a906d" width="650" alt="System Architecture" style="margin: 8px; border-radius: 10px;">
+  <img src="https://github.com/user-attachments/assets/f3f09aa7-e9a0-4351-bf70-00721d0a906d" width="650" alt="System Architecture" style="margin: 8px; border-radius: 10px; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 12px;">
 </p>
 
 ---
@@ -83,14 +83,14 @@ Monitor temperature and humidity in real time, log and visualize your data on th
 ### **Live Dashboard**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/790db23b-0b25-4f49-9ca3-329b3a2a1b68" width="550" alt="ThingSpeak Dashboard" style="margin: 8px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/bc9b02c0-de2d-43ad-9939-d5afdbe21560" width="550" alt="ThingSpeak Dashboard" style="margin: 8px; border-radius: 8px; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 12px;">
 </p>
 
 ### **Sample Data Graphs**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d591c988-26c3-46db-8c8d-6a9380144f97" width="380" alt="Temperature Graph" style="margin: 8px; border-radius: 8px;">
-  <img src="https://github.com/user-attachments/assets/8c7023b5-8f1b-4bd8-99e9-aa3d359aa4c5" width="380" alt="Humidity Graph" style="margin: 8px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/d591c988-26c3-46db-8c8d-6a9380144f97" width="380" alt="Temperature Graph" style="margin: 8px; border-radius: 8px; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 12px;">
+  <img src="https://github.com/user-attachments/assets/8c7023b5-8f1b-4bd8-99e9-aa3d359aa4c5" width="380" alt="Humidity Graph" style="margin: 8px; border-radius: 8px; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 12px;">
 </p>
 
 ---
@@ -100,7 +100,7 @@ Monitor temperature and humidity in real time, log and visualize your data on th
 ```
 IoT-CloudConnect-WeatherStation/
 ├── assets/
-│   ├── banner.png
+│   ├── banner_cloudconnect_weatherstation.png
 │   ├── ...
 ├── data/
 │   └── [optional: CSV logs]
@@ -124,7 +124,7 @@ IoT-CloudConnect-WeatherStation/
 | Tool / Library      | Purpose                                       |
 |---------------------|-----------------------------------------------|
 | Arduino IDE         | Programming ESP32                             |
-| ESP32               | Wireless microcontroller                       |
+| ESP32               | Wireless microcontroller                      |
 | DHT11               | Temperature & humidity sensing                |
 | ThingSpeak          | Cloud data logging & visualization            |
 | Adafruit DHT Library| Sensor interfacing                            |
@@ -137,7 +137,7 @@ IoT-CloudConnect-WeatherStation/
 
 | Hardware Setup Example | ThingSpeak Dashboard |
 |-----------------------|---------------------|
-| <img src="https://github.com/user-attachments/assets/3cefa5c2-803a-4242-93f4-1fb8ea63ba4c" width="350" alt="Hardware Setup" style="margin: 8px; border-radius: 8px;"> | <img src="https://github.com/user-attachments/assets/790db23b-0b25-4f49-9ca3-329b3a2a1b68" width="350" alt="ThingSpeak Dashboard" style="margin: 8px; border-radius: 8px;"> |
+| <img src="https://github.com/user-attachments/assets/3cefa5c2-803a-4242-93f4-1fb8ea63ba4c" width="350" alt="Hardware Setup" style="margin: 8px; border-radius: 8px; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 12px;"> | <img src="https://github.com/user-attachments/assets/0d444e9f-e981-4a4e-8716-d670fb6f8ef4" width="350" alt="ThingSpeak Dashboard" style="margin: 8px; border-radius: 8px; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 12px;"> |
 
 ---
 
