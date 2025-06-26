@@ -93,6 +93,13 @@ Monitor temperature and humidity in real time, log and visualize your data on th
   <img src="https://github.com/user-attachments/assets/8c7023b5-8f1b-4bd8-99e9-aa3d359aa4c5" width="380" alt="Humidity Graph" style="margin: 8px; border-radius: 8px; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 12px;">
 </p>
 
+### **Sample Data**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b623140c-d4db-4ae5-b85d-3421c3ad463d" width="380" alt="Temperature Graph" style="margin: 8px; border-radius: 8px; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 12px;">
+  <img src="https://github.com/user-attachments/assets/ac8e6a11-3c4c-44aa-8cfb-3317419f71e2" width="380" alt="Humidity Graph" style="margin: 8px; border-radius: 8px; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,0.10); padding: 12px;">
+</p>
+
 ---
 
 ## 📁 Project Structure
